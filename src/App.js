@@ -48,14 +48,14 @@ function App() {
       </form>
       <div>
         {userData.nameClicked ? (
-          <p>Zame:{userData.name}</p>
+          <p>Name:{userData.name}</p>
         ) : (
           <p> name not displaying</p>
           )}
         {userData.zodiacClicked ? (
           <p>Zodiac:{userData.zodiac}</p>
         ) : (
-          <p> name not displaying</p>
+          <p> zodiac not displaying</p>
         )}
       </div>
       {/* {userData.zodiac}

@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background-color: aqua;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -16,7 +17,29 @@ code {
 font-size: 75px;
 }
 
+p {
+  color: rgb(178, 206, 56);
+
+}
+
 .button {
   height: 200px;
-  width: 200px;
+  width: 200px
+  ;
 }
+
+.userText {
+  font-size: 32px;
+  color: rgb(178, 206, 56);
+  font-weight: 730;
+
+}
+
+.labelText {
+  font-size: 40px;
+  font-weight: 530;
+}
+
+/* .name-data {
+font-weight:500;
+} */

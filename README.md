@@ -1,11 +1,9 @@
-# React free form practice with Emma 
+# React free form practice 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+by Emma
 ## Available Scripts
 
-In the project directory, you can run:
-
-### `fun or cool ideas`
+seeing all the cool things react native has to offer
+### fun or cool ideas:
 
 add bootstrap or flexbox, add automatic scroll to bottom for onclick 

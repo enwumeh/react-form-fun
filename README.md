@@ -1,4 +1,4 @@
-# React free from practice with Emma 
+# React free form practice with Emma 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
